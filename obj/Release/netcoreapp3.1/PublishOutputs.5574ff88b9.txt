@@ -1,7 +1,0 @@
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestCICDAPI.exe
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestCICDAPI.dll
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestCICDAPI.deps.json
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestCICDAPI.runtimeconfig.json
-E:\TestCICDAPI\TestCICDAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestCICDAPI.pdb
